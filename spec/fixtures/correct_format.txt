@@ -1,0 +1,17 @@
+/manchester_united 129.432
+/manchester_city 543.423
+/tottenham 654.234
+/manchester_united 135.538
+/tottenham 654.234
+/arsenal 213.543
+/manchester_united 444.705
+/manchester_city 543.423
+/tottenham 983.279
+/manchester_united 123.123
+/arsenal 543.234
+/manchester_united 542.784
+/manchester_city 432.348
+/tottenham 483.893
+/manchester_united 123.123
+/arsenal 213.543
+/manchester_united 123.123
